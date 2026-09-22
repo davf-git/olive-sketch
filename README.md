@@ -2,7 +2,7 @@
 
 Roger, this is a sketch of how a new Olive website could be organised. It is here so you can click around and tell us whether the structure makes sense. It is not the finished design, and nothing in it is fixed.
 
-Open the site here: **https://davf-git.github.io/olive-2-prototype/**
+Open the site here: **https://davf-git.github.io/olive-sketch/**
 
 It works best on a computer. It also works on a phone.
 
