@@ -55,7 +55,7 @@ That means up to three places to log in to: the site's forms, your email and the
 
 ## How people become subscribers
 
-A subscriber is simply an email address. Nobody needs an account, a password or a profile - these create complexity and exclude visitors, blocking community. as you know from 15y experience.
+A subscriber is simply an email address. Nobody needs an account, a password or a profile - these create complexity and exclude visitors, blocking organic community growth.
 
 The choices are:
 
