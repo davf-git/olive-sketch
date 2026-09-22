@@ -2,7 +2,7 @@
 
 Roger, this is a sketch of how a new Olive website could be organised. It is here so you can click around and tell us whether the structure makes sense. It is not the finished design, and nothing in it is fixed.
 
-Open the site here: **https://davf-git.github.io/olive-sketch/**
+Open the site here: **https://davf-git.github.io/olive-2-prototype/**
 
 It works best on a computer. It also works on a phone.
 
@@ -72,7 +72,7 @@ A subscriber is simply an email address. Nobody needs an account, a password or 
 
 ## Adding new pieces
 
-On the finished site, you would add a new piece by filling in a simple form: the link, a title, a picture, a few subject tags and any comment of your own. To see what that form would look like, add `#/add` to the end of the site address.
+On the finished site, you would add a new piece by filling in a simple form: the link, a title, a picture, a few subject tags and any comment of your own. To see what the admin area and its forms would look like, add `#/admin` to the end of the site address.
 
 ## What happens next
 
