@@ -90,7 +90,7 @@ select,input,textarea,button{font-family:inherit;font-weight:400}
 
 nav a:last-child{margin-left:0}
 nav a[data-k="about"]{margin-left:auto}
-nav a.nav-sub,nav a.nav-admin{display:inline-block;margin-right:0;margin-left:6px;font-size:15px;line-height:1}
+nav a.nav-sub,nav a.nav-admin{display:inline-block;margin-right:0;margin-left:3px;font-size:15px;line-height:1}
 nav a.nav-sub{padding:8px 16px;border:1px solid currentColor;border-radius:999px;transform:translateY(8px);transition:background .2s,color .2s}
 nav a.nav-sub:hover,nav a.nav-sub.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
 body.has-hero nav a.nav-sub:hover,body.has-hero nav a.nav-sub.on{background:#fff;color:#111;border-color:#fff}
