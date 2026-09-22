@@ -1,7 +1,6 @@
 # Olive: a working sketch
 
-For Roger: this is a sketch of how Olive website could be organised.
-It is here so you can click around and tell us whether the structure makes sense. It is not the finished design, and nothing in it is fixed.
+Roger, this is a sketch of how a new Olive website could be organised. It is here so you can click around and tell us whether the structure makes sense. It is not the finished design, and nothing in it is fixed.
 
 Open the site here: **https://davf-git.github.io/olive-sketch/**
 
@@ -11,16 +10,18 @@ It works best on a computer. It also works on a phone.
 
 Olive has built up a lot over the years: hundreds of articles you have chosen and posted, your own writing, your films and installations, exhibitions and events, and the people you have worked with. On the current sites these are spread across different places and are hard to find.
 
-The aim is to give each of these a clear home, so that a visitor can see quickly what Olive is and find their way around. We want to settle that structure first. Colours, fonts and the look of the site come later, once the structure is right.
+The aim is to give each of these a clear home, so that a visitor can see quickly what Olive is and find their way around. We want to settle that structure first. The pictures, type and transitions give a feel for the site, but the detailed look comes later, once the structure is right.
 
 ## What you will find
 
-The site has four main sections, plus About:
+The site has four main sections:
 
 - **Publish.** Everything Olive has published, newest first. You can search it and narrow it by subject, by kind of piece, by year, or show only Olive's own writing.
 - **Events.** Exhibitions, installations, screenings and talks, by Olive and by the people it works with. Split into coming up and past.
 - **Practice.** Artworks: film, installation, music and photography.
 - **About.** What Olive is, the people and organisations involved, projects, a way to propose working together, and contact details.
+
+At the top right there is also a **Subscribe** button, for anyone who wants new pieces by email, and a faint **Admin** link, which is for you.
 
 The names of the sections are working names only. If a different word suits you better, it is easy to change.
 
@@ -73,7 +74,7 @@ A subscriber is simply an email address. Nobody needs an account, a password or 
 
 ## Adding new pieces
 
-On the finished site, you would add a new piece by filling in a simple form: the link, a title, a picture, a few subject tags and any comment of your own. To see what the admin area and its forms would look like, add `#/admin` to the end of the site address.
+On the finished site, you would add a new piece by filling in a simple form: the link, a title, a picture, a few subject tags and any comment of your own. To see what the admin area and its forms would look like, click the faint **Admin** link at the top right of any page. On the finished site it would ask for your login, so nobody else could use it.
 
 ## What happens next
 
