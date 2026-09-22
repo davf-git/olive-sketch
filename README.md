@@ -55,34 +55,35 @@ That means up to three places to log in to: the site's forms, your email and the
 
 ## How people become subscribers
 
-A subscriber is simply an email address. Nobody needs an account, a password or a profile. The choices are:
+A subscriber is simply an email address. Nobody needs an account, a password or a profile - these create complexity and exclude visitors, blocking community. as you know from 15y experience.
+
+The choices are:
 
 - **What people receive:** an email for every new piece, or a regular roundup, say monthly, with your comments.
 - **How they sign up:** we would ask people to confirm by clicking a link in a first email. That keeps the list clean and is the usual way to show they agreed.
 - **Your existing Substack readers:** whether to invite them across, or keep Substack for them and link the two.
 - **Who looks after the list:** you, or someone helping you.
 
-## Questions we would like your view on
+## Questions that need your view:
 
-1. **Does the structure make sense?** Can you find your way around without help?
-2. **Practice:** should it show only your own work, or the work of every artist Olive presents?
-3. **Section names:** do Publish, Events, Practice and About feel right, or would you choose other words?
-4. **The lines over the pictures:** what would you like to say at the top of each section?
-5. **Email updates:** would you like people to be able to subscribe? If so, should they get every new piece or a regular roundup?
-6. **Suggestions from visitors:** would you welcome people sending links for you to consider?
-7. **Running the site:** would you rather have one place to log in to, or are a few separate ones fine if they are simple?
+1. **Does the structure make sense?** Can you AND anyone else you invite, find the way around without help?
+2. **Practice:** could show your own work and the work of any artist Olive presents or affiliates with ... up to you.
+3. **Section names:** choose words that HELP the visitor!
+4. **The lines over the pictures:** blurb at the top of each section? Keep it simple and informative not just conceptual and/or profound – visitors need to know what's there
+5. **Email updates:** you'd like people to be able to subscribe so, should they get every new piece or a regular roundup?
+6. **Suggestions from visitors:** would you welcome people sending links for you to consider? there's place for that too.
+7. **Running the site:** one place to log in or are a few separate places?
 
 ## Adding new pieces
 
 On the finished site, you would add a new piece by filling in a simple form: the link, a title, a picture, a few subject tags and any comment of your own. To see what the admin area and its forms would look like, click the faint **Admin** link at the top right of any page. On the finished site it would ask for your login, so nobody else could use it.
 
-## What happens next
+## What to do next
 
-Once the structure feels right to you, we will:
+If the structure feels viable to you, this becomes a definitive functional template to design from:
 
-1. add the rest of the archive,
-2. fill in your real events and works,
+1. adding the rest of scraped archives is simple,
+2. start filling in real events and works,
 3. set up the form for adding new pieces,
-4. then turn to the look of the site.
-
-Any comments at all are useful, even "I don't understand this bit".
+4. then turn to the look of the site,
+5. host properly at correct URL.
